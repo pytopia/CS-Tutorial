@@ -1,2 +1,0 @@
-some string: file, gile
-(f|g)ile
