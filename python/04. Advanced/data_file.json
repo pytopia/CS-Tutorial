@@ -1,1 +1,16 @@
-{"president": {"name": "Zaphod Beeblebrox", "species": "Betelgeusian"}}
+{
+    "students": [
+        {
+            "Name": "Ali Hejazizo",
+            "Grade": [
+                14,
+                20
+            ]
+        },
+        {
+            "Name": "Masoud Zarepoor",
+            "Grade": null,
+            "is_in_class": true
+        }
+    ]
+}

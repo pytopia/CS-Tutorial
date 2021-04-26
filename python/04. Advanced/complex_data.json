@@ -1,13 +1,5 @@
-
-[
-  {
-    "__complex__":true,
-    "real":42,
-    "imag":36
-  },
-  {
-    "__complex__":true,
-    "real":64,
-    "imag":11
-  }
-]
+{
+    "__complex__": true,
+    "real": 42,
+    "imag": 36
+}
