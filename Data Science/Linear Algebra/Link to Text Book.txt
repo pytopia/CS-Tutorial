@@ -1,0 +1,3 @@
+Visit this link to download the book in pdf version:
+
+https://github.com/S-Ngigi/ML/blob/master/Books/Linear%20Algebra/Gilbert%20Strang%20-%20Introduction%20to%20Linear%20Algebra%20(2016,%20Wellesley-Cambridge%20Press)%20(1).pdf
