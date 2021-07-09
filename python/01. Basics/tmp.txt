@@ -1,0 +1,7 @@
+Hello Dear {supervisor},
+
+I am a B.Sc. ... {university}
+
+
+Best,
+- Ali
