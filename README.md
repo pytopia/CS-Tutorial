@@ -44,3 +44,9 @@ This organization covers different CS-based material including but not limited t
 We are very happy to receive and merge your contributions into this repository!
 
 To contribute via pull request, please read [How to Contribute](CONTRIBUTING.md)
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
