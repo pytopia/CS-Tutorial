@@ -12,19 +12,19 @@ Source codes for CS courses offered by [**Ali Hejazizo**](https://www.hejazizo.c
 This organization covers different CS-based material including but not limited to;
 
 - ## Pure Programming
-    - [Python](Python)
-    - [Data Structure](Data%20Structure)
+    - [Python](01.%20Python)
+    - [Data Structure](03.%20Data%20Structure%20and%20Algorithm)
 
 - ## Operating Systems
-    - [Linux](Linux)
+    - [Linux](02.%20Linux)
 
 - ## Database Tools
-    - [Git](Git)
+    - [Git](05.%20Git)
 
 - ## Data Science
-    - [Introduction](Data%20Science/Introduction)
-    - [Linear Algebra](Data%20Science/Linear%20Algebra)
-    - [Statistics](Data%20Science/Statistics)
+    - [Data Processing](04.%20Data%20Science/02.%20Data%20Processing)
+    - [Statistics](04.%20Data%20Science/03.%20Statistics)
+    - [Linear Algebra](04.%20Data%20Science/04.%20Linear%20Algebra) 
 
 - ## Projects
     - **Programming**
